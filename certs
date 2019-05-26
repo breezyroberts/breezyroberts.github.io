@@ -18,7 +18,7 @@
         <header class="inner">
           <a id="forkme_banner" href="https://github.com/breezyroberts">View on GitHub</a>
 
-          <h1 id="project_title">Breezy Roberts&#39; Github Projects - Social</h1>
+          <h1 id="project_title">Breezy Roberts&#39; Github Projects - Certs</h1>
           <h2 id="project_tagline"></h2>
 
         </header>
@@ -30,19 +30,8 @@
         <h1>Breezy's Github Pages</h1>
         
 
-<h1>Social</h1>
+<h1>Certificates/h1>
 
-        <h2>Linkedin</h2>
-        
-        <script type="text/javascript" src="https://platform.linkedin.com/badges/js/profile.js" async defer></script>
-
-<div class="LI-profile-badge"  data-version="v1" data-size="medium" data-locale="en_US" data-type="horizontal" data-theme="dark" data-vanity="breezyroberts"><a class="LI-simple-link" href='https://www.linkedin.com/in/breezyroberts?trk=profile-badge'>Breezy Roberts</a></div>
-        
-       <h2>Twitter</h2>
-
-<a class="twitter-timeline" href="https://twitter.com/breezyroberts?ref_src=twsrc%5Etfw">Tweets by breezyroberts</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
- <h2>Additional Information</h2>
-        <p><a href="mailto:breezy@breezyroberts.com">breezy@breezyroberts.com</a></p>
         
         
       
@@ -55,8 +44,3 @@
         <p>Published with <a href="https://pages.github.com">GitHub Pages</a></p>
       </footer>
     </div>
-
-    
-
-  </body>
-</html>
